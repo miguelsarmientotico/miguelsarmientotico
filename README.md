@@ -1,38 +1,15 @@
-<!-- Cabecera con banner -->
 <div align="center">
 
 # ¡Hola, soy Miguel Angel Sarmiento Tico! 🔥
 **Desarrollador Full-Stack | Python & JavaScript**
 
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 12px; flex-wrap: wrap; margin: 20px 0;">
-<div>
-
 [![Portfolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tu-sitio.com)
-
-</div>
-
-<div>
-
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/miguel-sarmiento-tico/)
-
-</div>
-<div>
-
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/sarmientomiguel3)
-
-</div>
-<div>
-
 ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FMiguelS23484737)
-
-</div>
-<div>
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:sarmientomiguel3@gmail.com)
-</div>
 
-</div>
-
+<br />
 
 ## 🚀 Sobre Mí
 
@@ -44,10 +21,11 @@ Mi formación en Ingeniería de Sistemas y experiencia en diversas herramientas 
 🎯 **Intereses:** Desarrollo backend, arquitectura de software, open source  
 🚀 **Metas:** Crear soluciones que impacten positivamente en la vida de las personas
 
+<br />
+
 ## 🛠️ Stack Tecnológico
 
 ### **Lenguajes**
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 12px; flex-wrap: wrap; margin: 20px 0;">
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
@@ -61,8 +39,6 @@ Mi formación en Ingeniería de Sistemas y experiencia en diversas herramientas 
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
 [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
-
-</div>
 
 ### **Frontend**
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)
@@ -90,20 +66,7 @@ Mi formación en Ingeniería de Sistemas y experiencia en diversas herramientas 
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 
-## 📈 Estadísticas de GitHub
-
-<div align="center">
-  
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=miguelsarmientotico&show_icons=true&theme=radical&hide_border=true)
-
-![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelsarmientotico&layout=compact&theme=radical&hide_border=true)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=miguelsarmientotico&theme=radical&hide_border=true)
-
-![Oregand's gitlab stats](https://gitlab-readme-stats-flax.vercel.app/api?username=miguelarch)
-
-
-</div>
+<br />
 
 ## 💼 Proyectos Destacados
 
@@ -122,23 +85,17 @@ _Aplicación de clima en tiempo real_
 - **Tech**: React Native, OpenWeather API
 - **Estado**: En desarrollo activo
 
-## 📫 Conectemos
+<br />
 
+## 📫 Conectemos
 **¿Tienes un proyecto interesante?** Me encanta colaborar:
 
 - 📧 **Email**: [sarmientomiguel3@gmail.com](mailto:sarmientomiguel3@gmail.com)
 - 💼 **LinkedIn**: [Conectar](https://www.linkedin.com/in/miguel-sarmiento-tico/)
-- 🐦 **Twitter**: [Seguir](https://twitter.com/tu-usuario)
+- 🐦 **X**: [Seguir](https://x.com/MiguelS23484737)
 - 🌐 **Portafolio**: [Visitar](https://tu-sitio.com)
 
-## 🎯 Metas Actuales
-
-- [ ] Contribuir a proyectos Open Source
-- [ ] Dominar Docker y Kubernetes
-- [ ] Aprender Go o Rust
-- [ ] Desplegar mi primera aplicación en la nube
-
----
+<br />
 
 <div align="center">
 
