@@ -1,7 +1,7 @@
 <div align="center">
 
 # ¡Hola, soy Miguel Angel Sarmiento Tico! 🔥
-**Desarrollador Full-Stack | Python & JavaScript**
+**Desarrollador Full-Stack**
 
 [![Portfolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tu-sitio.com)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/miguel-sarmiento-tico/)
