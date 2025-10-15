@@ -3,7 +3,7 @@
 # ¡Hola, soy Miguel Angel Sarmiento Tico!
 **Desarrollador Full-Stack**
 
-[![Firefox](https://img.shields.io/badge/Portafolio-09814A?logo=Firefox&logoColor=white)](#)
+[![Firefox](https://img.shields.io/badge/Portafolio-09814A?logo=Firefox&logoColor=white)](https://miguelsarmientotico.github.io/)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/miguel-sarmiento-tico/)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/sarmientomiguel3)
 ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FMiguelS23484737)
@@ -21,7 +21,7 @@
     - [Bases de Datos](#bases-de-datos)
     - [Herramientas](#herramientas)
     - [IDEs](#ides)
-- [Proyectos Destacados](#proyectos-destacados)
+- [Mis Proyectos](#mis-proyectos)
 - [Contacto](#contacto)
 
 </div>
@@ -32,9 +32,10 @@ Como Fullstack Developer, he trabajado en la creación de soluciones digitales q
 
 Mi formación en Ingeniería de Sistemas y experiencia en diversas herramientas me permiten abordar desafíos técnicos con un enfoque práctico y colaborativo. Apasionado por la innovación tecnológica, mi objetivo es contribuir al desarrollo de soluciones impactantes que potencien la productividad y la experiencia del usuario.
 
-💡 **Actualmente aprendiendo:** AWS, Flutter  
-🎯 **Intereses:** Desarrollo backend, arquitectura de software, open source  
+🎯 **Intereses:** Desarrollo backend, Desarrollo frontend, Desarrollo fullstack, Arquitectura de software, Open source
 🚀 **Metas:** Crear soluciones que impacten positivamente en la vida de las personas  
+
+💡 **Actualmente aprendiendo:** AWS, Flutter  
 
 <br />
 
@@ -85,27 +86,13 @@ Mi formación en Ingeniería de Sistemas y experiencia en diversas herramientas 
 
 ### **IDEs**
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](/stack.md#neovim)
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-
-<span style="font-size: 30px">
-
-[***Ver stack tecnologico completo 👈***](/stack.md)
-
-</span>
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#vscode)
 
 <br />
 
-## Proyectos Destacados
+## Mis Proyectos
 
-<div align="left">
-
-**Proyecto:** **Mi Proyecto Awesome**  
-**Descripción:** Una aplicación web moderna para gestión de tareas  
-**Stack:** `React` `Node.js` `MongoDB` `Tailwind CSS`  
-**Enlace:** [🔗 GitHub](https://github.com/usuario/proyecto) | [🌐 Demo](https://mi-proyecto.netlify.app)
-
-
-</div>
+[***Enlace***](/stack.md)
 
 <br />
 
@@ -113,9 +100,9 @@ Mi formación en Ingeniería de Sistemas y experiencia en diversas herramientas 
 **¿Tienes un proyecto interesante?** Me encanta colaborar:
 
 📧 **Email**: [sarmientomiguel3@gmail.com](mailto:sarmientomiguel3@gmail.com)  
-💼 **LinkedIn**: [Conectar](https://www.linkedin.com/in/miguel-sarmiento-tico/)  
-🐦 **X**: [Seguir](https://x.com/MiguelS23484737)  
-🌐 **Portafolio**: [Visitar](https://tu-sitio.com)  
+💼 **LinkedIn**: [ https://www.linkedin.com/in/miguel-sarmiento-tico](https://www.linkedin.com/in/miguel-sarmiento-tico/)  
+🐦 **X**: [https://x.com/MiguelS23484737](https://x.com/MiguelS23484737)  
+🌐 **Pagina Web**: [https://miguelsarmientotico.github.io/](https://miguelsarmientotico.github.io/)  
 
 <br />
 
