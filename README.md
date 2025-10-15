@@ -32,7 +32,7 @@ Como Fullstack Developer, he trabajado en la creación de soluciones digitales q
 
 Mi formación en Ingeniería de Sistemas y experiencia en diversas herramientas me permiten abordar desafíos técnicos con un enfoque práctico y colaborativo. Apasionado por la innovación tecnológica, mi objetivo es contribuir al desarrollo de soluciones impactantes que potencien la productividad y la experiencia del usuario.
 
-🎯 **Intereses:** Desarrollo backend, Desarrollo frontend, Desarrollo fullstack, Arquitectura de software, Open source
+🎯 **Intereses:** Desarrollo backend, Desarrollo frontend, Desarrollo fullstack, Arquitectura de software, Open source  
 🚀 **Metas:** Crear soluciones que impacten positivamente en la vida de las personas  
 
 💡 **Actualmente aprendiendo:** AWS, Flutter  
