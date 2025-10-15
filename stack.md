@@ -1,4 +1,4 @@
-# STACK TECNOLOGICO
+# MIS PROYECTOS
 ## Indice
 - [Lenguajes de Programacion](#language)
     - [JavaScript](#javascript)
