@@ -378,10 +378,11 @@
 ### Neovim
 ---
 
-**Proyecto:** **Mi Proyecto Awesome**  
-**Descripción:** Una aplicación web moderna para gestión de tareas  
-**Stack:** `React` `Node.js` `MongoDB` `Tailwind CSS`  
-**Enlace:** [🔗 GitHub](https://github.com/usuario/proyecto) | [🌐 Demo](https://mi-proyecto.netlify.app)
+**Proyecto:** **Nvim**  
+**Descripción:** Mi configuracion de nvim para el desarrollo de javascript, typescript, php, java  
+**Stack:** `Lua`  
+**Enlace:** [🔗 GitHub](https://github.com/miguelsarmientotico/nvim)  
+**Enlace de mi version DEPRECATED:** [🔗 GitHub](https://github.com/miguelsarmientotico/MyVim)  
 
 ---
 ### VScode
