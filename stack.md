@@ -54,41 +54,34 @@
 ### Typescript
 ---
 
-**Proyecto:** **Mi Proyecto Awesome**  
-**Descripción:** Una aplicación web moderna para gestión de tareas  
-**Stack:** `React` `Node.js` `MongoDB` `Tailwind CSS`  
-**Enlace:** [🔗 GitHub](https://github.com/usuario/proyecto) | [🌐 Demo](https://mi-proyecto.netlify.app)
+**Proyecto:** **Portafolio**  
+**Descripción:** Portafolio Simple  
+**Stack:** `VueJs` `SCSS` `Tailwind Css` `PrimeVue` `HTML` `CSS` `Typescript`  
+**Enlace:** [🔗 GitHub](https://github.com/miguelsarmientotico/miguelsarmientotico.github.io) | [🌐 Demo](https://miguelsarmientotico.github.io/)
 
-**Proyecto:** **Mi Proyecto Awesome**  
-**Descripción:** Una aplicación web moderna para gestión de tareas  
-**Stack:** `React` `Node.js` `MongoDB` `Tailwind CSS`  
-**Enlace:** [🔗 GitHub](https://github.com/usuario/proyecto) | [🌐 Demo](https://mi-proyecto.netlify.app)
+**Proyecto:** **Sistema Educativo Frontend**  
+**Descripción:** Sistema documentario Educativo para registro de Maestrias y Doctorados  
+**Stack:** `VueJs` `SCSS` `Tailwind Css` `PrimeVue` `HTML` `CSS` `Typescript`  
+**Librerias:** `oFetch` `vueuse` `lodash` `pinia` `vue-router` `vee-validate`   
+**Enlace:** [🔗 GitHub](https://github.com/miguelsarmientotico/educational-system-front)
+
+**Proyecto:** **Sistema Educativo Backend**  
+**Descripción:** Sistema documentario Educativo para registro de Maestrias y Doctorados  
+**Stack:** `NestJs` `Fastify` `Typescript`  
+**Librerias:** `Lodash` `TypeORM`  
+**Bases de Datos:** `PostgreSQL` `MongoDB`  
+**Enlace:** [🔗 GitHub](https://github.com/miguelsarmientotico/educational-system-front)
 
 ### Java
 ---
 
-**Proyecto:** **Mi Proyecto Awesome**  
-**Descripción:** Una aplicación web moderna para gestión de tareas  
-**Stack:** `React` `Node.js` `MongoDB` `Tailwind CSS`  
-**Enlace:** [🔗 GitHub](https://github.com/usuario/proyecto) | [🌐 Demo](https://mi-proyecto.netlify.app)
-
-**Proyecto:** **Mi Proyecto Awesome**  
-**Descripción:** Una aplicación web moderna para gestión de tareas  
-**Stack:** `React` `Node.js` `MongoDB` `Tailwind CSS`  
-**Enlace:** [🔗 GitHub](https://github.com/usuario/proyecto) | [🌐 Demo](https://mi-proyecto.netlify.app)
+**Proyecto:** **Registro de notas**  
+**Descripción:** Una aplicación web moderna para gestión de notas  
+**Stack:** `SpringBoot` `Thymeleaf` `Vuejs` `Java`  
+**Enlace:** [🔗 GitHub](https://github.com/miguelsarmientotico/notes)
 
 ### C#
 ---
-
-**Proyecto:** **Mi Proyecto Awesome**  
-**Descripción:** Una aplicación web moderna para gestión de tareas  
-**Stack:** `React` `Node.js` `MongoDB` `Tailwind CSS`  
-**Enlace:** [🔗 GitHub](https://github.com/usuario/proyecto) | [🌐 Demo](https://mi-proyecto.netlify.app)
-
-**Proyecto:** **Mi Proyecto Awesome**  
-**Descripción:** Una aplicación web moderna para gestión de tareas  
-**Stack:** `React` `Node.js` `MongoDB` `Tailwind CSS`  
-**Enlace:** [🔗 GitHub](https://github.com/usuario/proyecto) | [🌐 Demo](https://mi-proyecto.netlify.app)
 
 ### PHP
 ---
@@ -98,23 +91,9 @@
 **Stack:** `React` `Node.js` `MongoDB` `Tailwind CSS`  
 **Enlace:** [🔗 GitHub](https://github.com/usuario/proyecto) | [🌐 Demo](https://mi-proyecto.netlify.app)
 
-**Proyecto:** **Mi Proyecto Awesome**  
-**Descripción:** Una aplicación web moderna para gestión de tareas  
-**Stack:** `React` `Node.js` `MongoDB` `Tailwind CSS`  
-**Enlace:** [🔗 GitHub](https://github.com/usuario/proyecto) | [🌐 Demo](https://mi-proyecto.netlify.app)
 
 ### Bash
 ---
-
-**Proyecto:** **Mi Proyecto Awesome**  
-**Descripción:** Una aplicación web moderna para gestión de tareas  
-**Stack:** `React` `Node.js` `MongoDB` `Tailwind CSS`  
-**Enlace:** [🔗 GitHub](https://github.com/usuario/proyecto) | [🌐 Demo](https://mi-proyecto.netlify.app)
-
-**Proyecto:** **Mi Proyecto Awesome**  
-**Descripción:** Una aplicación web moderna para gestión de tareas  
-**Stack:** `React` `Node.js` `MongoDB` `Tailwind CSS`  
-**Enlace:** [🔗 GitHub](https://github.com/usuario/proyecto) | [🌐 Demo](https://mi-proyecto.netlify.app)
 
 ### YAML
 ---
@@ -201,10 +180,10 @@
 ### Vue
 ---
 
-**Proyecto:** **Mi Proyecto Awesome**  
-**Descripción:** Una aplicación web moderna para gestión de tareas  
-**Stack:** `React` `Node.js` `MongoDB` `Tailwind CSS`  
-**Enlace:** [🔗 GitHub](https://github.com/usuario/proyecto) | [🌐 Demo](https://mi-proyecto.netlify.app)
+**Proyecto:** **Portafolio**  
+**Descripción:** Portafolio Simple  
+**Stack:** `VueJs` `SCSS` `Tailwind Css` `PrimeVue` `HTML` `CSS`  
+**Enlace:** [🔗 GitHub](https://github.com/miguelsarmientotico/miguelsarmientotico.github.io) | [🌐 Demo](https://miguelsarmientotico.github.io/)
 
 **Proyecto:** **Mi Proyecto Awesome**  
 **Descripción:** Una aplicación web moderna para gestión de tareas  
@@ -404,20 +383,5 @@
 **Stack:** `React` `Node.js` `MongoDB` `Tailwind CSS`  
 **Enlace:** [🔗 GitHub](https://github.com/usuario/proyecto) | [🌐 Demo](https://mi-proyecto.netlify.app)
 
-**Proyecto:** **Mi Proyecto Awesome**  
-**Descripción:** Una aplicación web moderna para gestión de tareas  
-**Stack:** `React` `Node.js` `MongoDB` `Tailwind CSS`  
-**Enlace:** [🔗 GitHub](https://github.com/usuario/proyecto) | [🌐 Demo](https://mi-proyecto.netlify.app)
-
 ---
 ### VScode
-
-**Proyecto:** **Mi Proyecto Awesome**  
-**Descripción:** Una aplicación web moderna para gestión de tareas  
-**Stack:** `React` `Node.js` `MongoDB` `Tailwind CSS`  
-**Enlace:** [🔗 GitHub](https://github.com/usuario/proyecto) | [🌐 Demo](https://mi-proyecto.netlify.app)
-
-**Proyecto:** **Mi Proyecto Awesome**  
-**Descripción:** Una aplicación web moderna para gestión de tareas  
-**Stack:** `React` `Node.js` `MongoDB` `Tailwind CSS`  
-**Enlace:** [🔗 GitHub](https://github.com/usuario/proyecto) | [🌐 Demo](https://mi-proyecto.netlify.app)
