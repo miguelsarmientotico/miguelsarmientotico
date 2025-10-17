@@ -22,6 +22,7 @@
     - [Herramientas](#herramientas)
     - [IDEs](#ides)
 - [Mis Proyectos](#mis-proyectos)
+- [Mis Certificados](#mis-certificados)
 - [Contacto](#contacto)
 
 </div>
