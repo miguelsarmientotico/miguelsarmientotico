@@ -175,24 +175,6 @@
 **Enlace:** [🔗 GitHub](https://github.com/miguelsarmientotico/nvim)  
 **Enlace de mi version DEPRECATED:** [🔗 GitHub](https://github.com/miguelsarmientotico/MyVim)  
 
-### Bash
----
-
-### YAML
----
-
-### JSON
----
-
-### CSS
----
-
-### HTML
----
-
-### Markdown
----
-
 <hr style="border: 1px dotted #666;">
 
 ## Frameworks Frontend
@@ -282,9 +264,6 @@
 **Stack:** `Express` `Node.js` `axios` `PostgreSQL`  
 **Enlace:** [🔗 GitHub](https://github.com/miguelsarmientotico/retobacktecnico)  
 
-### ExpressJS
----
-
 ### NestJS
 ---
 
@@ -314,23 +293,7 @@
 
 <hr style="border: 1px dotted #666;">
 
-## Bases de Datos
-
-### Postgres
----
-
-### MySQL
----
-
-### MongoDB
----
-
-<hr style="border: 1px dotted #666;">
-
 ## Herramientas
-
-### Git
----
 
 ### Docker
 ---
@@ -357,6 +320,3 @@
 **Stack:** `Lua`  
 **Enlace:** [🔗 GitHub](https://github.com/miguelsarmientotico/nvim)  
 **Enlace de mi version DEPRECATED:** [🔗 GitHub](https://github.com/miguelsarmientotico/MyVim)  
-
----
-### VScode
