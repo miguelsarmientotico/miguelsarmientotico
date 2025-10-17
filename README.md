@@ -96,6 +96,12 @@ Mi formación en Ingeniería de Sistemas y experiencia en diversas herramientas 
 
 <br />
 
+## Mis Certificados
+
+[<span style="font-size: 2em">***Enlace 👈***</span>](/certificates.md)
+
+<br />
+
 ## Contacto
 **¿Tienes un proyecto interesante?** Me encanta colaborar:
 
