@@ -92,7 +92,7 @@ Mi formación en Ingeniería de Sistemas y experiencia en diversas herramientas 
 
 ## Mis Proyectos
 
-[***Enlace***](/stack.md)
+[<span style="font-size: 2em">***Enlace 👈***</span>](/stack.md)
 
 <br />
 
